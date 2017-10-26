@@ -1,0 +1,11 @@
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.csprojResolveAssemblyReference.cache
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.Solution1Module.resources
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.csproj.GenerateResource.Cache
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.dll.licenses
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\bin\Debug\Solution1.Module.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\bin\Debug\Solution1.Module.pdb
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\bin\Debug\Excel.4.5.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\bin\Debug\Mysql.Data.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Module\obj\Debug\Solution1.Module.pdb

@@ -1,0 +1,16 @@
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Model.xafml
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Web.dll.config
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Web.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Web.pdb
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Excel.4.5.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Mysql.Data.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Module.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Module.Web.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Module.Web.pdb
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\bin\Solution1.Module.pdb
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\obj\Debug\Solution1.Web.csprojResolveAssemblyReference.cache
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\obj\Debug\Solution1.Web.Solution1AspNetApplication.resources
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\obj\Debug\Solution1.Web.csproj.GenerateResource.Cache
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\obj\Debug\Solution1.Web.dll
+D:\Proyek\OFF_SystemMonitoring\Source\FFIS\Solution1.Web\obj\Debug\Solution1.Web.pdb
